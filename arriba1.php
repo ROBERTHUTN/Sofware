@@ -4,8 +4,8 @@
 <html>
     <head>
         <style type="text/css">
-            h1,h2,h3.titulo{
-                border-bottom: 1px solid #fff600;
+           h1,h2,h3.titulo{
+                border-bottom: 1px solid #c5c5c5;
             }
         </style>
 
@@ -36,16 +36,16 @@
                 <!--Contenedor de las imagenes--> 
                 <div class="carousel-inner" role="listbox">
                     <div class="item">
-                        <img src="View/imagenes/banner1.png" width="100%" alt="Imagen 1">
+                        <img src="View/imagenes/banner1.jpg" width="100%" alt="Imagen 1">
                     </div>
                     <div class="item active">
-                        <img src="View/imagenes/banner2.png" width="100%" alt="Imagen 2">
+                        <img src="View/imagenes/banner.jpg" width="100%" alt="Imagen 2">
                     </div>
                     <div class="item">
-                        <img src="View/imagenes/banner3.png" width="100%" alt="Imagen 3">
+                        <img src="View/imagenes/banner1.jpg" width="100%" alt="Imagen 3">
                     </div>
                     <div class="item">
-                        <img src="View/imagenes/bannerMenu2.jpg" width="100%" alt="Imagen 4">
+                        <img src="View/imagenes/banner.jpg" width="100%" alt="Imagen 4">
                     </div>
                 </div>
                 <!--Controls--> 

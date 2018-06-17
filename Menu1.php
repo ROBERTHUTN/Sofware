@@ -17,11 +17,8 @@
         <link href="View/style.css" rel="stylesheet" type="text/css" media="screen" >
         <title>PANAMERICANA INTERNACIONAL</title>
         
-        <style type="text/css">
-            h1,h2,h3.titulo{
-                border-bottom: 2px solid #fff600;
-            }
-        </style>
+                </style>
+
     </head>
     <body>
         <div>
@@ -32,7 +29,7 @@
         <div id="wrapper"><div id="menu">
                 <ul> <!-- class="current_page_item"-->
                  
-                    <li class="current_page_item"><a id="inicio" style="border: 1px solid #ff7700;" href="View/Inicio.php"  target="ventana">&nbsp;&nbsp;&nbsp;&nbsp;INICIO &nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                    <li class="current_page_item"><a id="inicio" style="border: 1px solid #3B0B0B;" href="View/Inicio1.php"  target="ventana">&nbsp;&nbsp;&nbsp;&nbsp;INICIO &nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Nosotros1.php" target="ventana">NOSOTROS</a></li>
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Destinos1.php"  target="ventana">&nbsp;DESTINOS </a></li>
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Oficinas1.php"  target="ventana">&nbsp;&nbsp;&nbsp;&nbsp;OFICINAS &nbsp;&nbsp;&nbsp;&nbsp;</a></li>

@@ -19,9 +19,9 @@
         <link rel="stylesheet" href="css/bootstrap-table.css">
         <link href="style.css" rel="stylesheet" type="text/css" media="screen" >
         <title>PANAMERICANA INTERNACIONAL</title>
-        <style type="text/css">
+         <style type="text/css">
             h1,h2,h3.titulo{
-                border-bottom: 2px solid #fff600;
+                border-bottom: 2px solid #c5c5c5;
             }
         </style>
         
