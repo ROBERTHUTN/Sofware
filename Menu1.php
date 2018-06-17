@@ -30,6 +30,7 @@
         </div>
         <div id="wrapper"><div id="menu">
                 <ul> <!-- class="current_page_item"-->
+                 
                     <li class="current_page_item"><a id="inicio" style="border: 1px solid #ff7700;" href="View/Inicio.php"  target="ventana">&nbsp;&nbsp;&nbsp;&nbsp;INICIO &nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Nosotros.php" target="ventana">NOSOTROS</a></li>
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Destinos.php"  target="ventana">&nbsp;DESTINOS </a></li>
@@ -38,5 +39,6 @@
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Reservaciones.php"  target="ventana">RESERVACIONES</a></li>
                 </ul>
             </div></div>
+        <H1>joa</H1>
     </body>
 </HTML>
