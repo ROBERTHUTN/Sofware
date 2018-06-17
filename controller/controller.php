@@ -209,17 +209,17 @@ switch ($opcion1) {
         $cedula = $_REQUEST['cedula'];
         $contrasenia = $_REQUEST['password'];
         $cliente = $crudModel->getCliente($cedula);
-        if ($cliente->getCED_CLIENTE() == NULL && $cliente->getCONTRASENIA() == NULL) {
+        if ($cliente->getCED_CLIENTE() == NULL && $cliente->getPASS_CLIENTE() == NULL) {
             $_SESSION['mensajeError'] = 'Datos incorrectos!! Vuelva a intentar';
             header("Location: ../View/Reservaciones.php");
         } else
             {
-            if ($cliente->getCONTRASENIA() != $contrasenia) {
+            if ($cliente->getPASS_CLIENTE() != $contrasenia) {
             $_SESSION['mensajeContrase'] = 'Contraseña Incorrecta';
             header("Location: ../View/Reservaciones.php");
         } else
             {
-            if ($cliente->getCED_CLIENTE() == $cedula && $cliente->getCONTRASENIA() == $contrasenia) {
+            if ($cliente->getCED_CLIENTE() == $cedula && $cliente->getPASS_CLIENTE() == $contrasenia) {
                 $_SESSION['usuario'] = serialize($cliente);
                 header("Location: ../view/ReservacionLogin.php");
             }
