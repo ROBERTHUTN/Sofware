@@ -39,6 +39,6 @@
                     <li class="current_page_item"><a style="border: 1px solid #ff7700;" href="View/Reservaciones.php"  target="ventana">RESERVACIONES</a></li>
                 </ul>
             </div></div>
-        <H1>joa</H1>
+        
     </body>
 </HTML>

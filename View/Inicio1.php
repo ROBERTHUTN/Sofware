@@ -28,7 +28,7 @@
     </head>
     <body bgcolor=#832B2B id="inicio">
         <div><br></div>
-        <h1>hola</h1>
+        
     <div id="wrapper">
 
             <h1 class="titulo" style="padding-left: 20px;"> Bienvenidos a PANAMERICANA INTERNACIONAL </h1><br><br>
