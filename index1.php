@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title> Cooperativa de Transportes HOLA</title>
+        <title> Cooperativa de Transportes HOLA AMIGO</title>
     </head>
     
     <frameset rows="28%,*">
